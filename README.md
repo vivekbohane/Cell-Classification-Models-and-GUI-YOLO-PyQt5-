@@ -11,7 +11,11 @@
 
 <p align="center">
   <img src="Images_GUI/Screenshot (277).png" alt="Image 1" width="45%" style="display:inline-block; margin-right:10px;">
-  <img src="Images_GUI/Screenshot (277).png" width="45%" style="display:inline-block;">
+  <img src="Images_GUI/Screenshot (277).png" alt="Image 2" width="45%" style="display:inline-block;">
 </p>
 
  
+<p align="center">
+  <img src="Images_GUI/Screenshot (277).png" alt="Image 1" width="49%" style="display:inline-block; margin-right:1%;">
+  <img src="Images_GUI/Screenshot (278).png" alt="Image 2" width="49%" style="display:inline-block;">
+</p>
